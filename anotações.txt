@@ -1,0 +1,6 @@
+- cadastro de serviços (crud)
+- cadastro de clientes
+- cadastro de agenda
+- cadastro de produtos
+- cadastro de funcionarios
+- cadastro de fornecedor
